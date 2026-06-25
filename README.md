@@ -1,4 +1,4 @@
-# Correria — Arquiteturas Distribuídas
+# PEABIRU — Arquiteturas Distribuídas
 
 Aplicação web interativa para exposição presencial.
 
